@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.nightwind.fulliconlist</string>
+	<key>RDPxlPackageFiles</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<string>/Library/MicroInjector/DynamicLibraries/FullIconList.dylib</string>
+			<key>overwrite</key>
+			<false/>
+			<key>permanent</key>
+			<false/>
+			<key>executable</key>
+			<true/>
+			<key>source</key>
+			<string>instroot/Library/MicroInjector/DynamicLibraries/FullIconList.dylib</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<string>/Library/MicroInjector/DynamicLibraries/FullIconList.plist</string>
+			<key>overwrite</key>
+			<false/>
+			<key>permanent</key>
+			<false/>
+			<key>source</key>
+			<string>instroot/Library/MicroInjector/DynamicLibraries/FullIconList.plist</string>
+		</dict>
+	</array>
+	<key>RDPxlPackageName</key>
+	<string>FullIconList</string>
+	<key>RDPxlPackageVersion</key>
+	<string>0.0.1</string>
+	<key>RDPxlPackageDesc</key>
+	<string>Allow all icons to be displayed on iPhone OS 1.1-1.1.5</string>
+	<key>RDPxlPackageFormat</key>
+	<string>1</string>
+</dict>
+</plist>
