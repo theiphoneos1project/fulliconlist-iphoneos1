@@ -8,7 +8,7 @@ Tested on:
 - iPhone OS 1.1-1.1.5 on iPod touch 1st generation
 
 ### How to install
-Head over to the [Releases](https://github.com/theiphoneos1project/fulliconlist-iphoneos1/releases) section and download the `.PXL`. Install it with iBrickr using Windows XP. Make sure `MicroInjector` is already installed ([link](https://github.com/theiphoneos1project/MicroInjector/releases)).
+Head over to the [Releases](https://github.com/theiphoneos1project/fulliconlist-iphoneos1/releases) section and download the `.PXL`. Install it with [PXLInstaller](https://github.com/theiphoneos1project/PXLInstaller) or iBrickr using Windows XP. Make sure `MicroInjector` is already installed ([link](https://github.com/theiphoneos1project/MicroInjector/releases)).
 
 ### How to compile manually
 Make sure you have [Theos](https://github.com/theos/theos) installed and configured.
